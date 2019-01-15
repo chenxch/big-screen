@@ -1,4 +1,4 @@
-# big-screen2
+# big-screen
 
 ## Project setup
 ```
